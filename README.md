@@ -105,4 +105,26 @@ Figure 5. Biblioshiny page
 
 ---
 
+Certainly! Here's a concise conclusion summarizing the installation of the **bibliometrix package** and **Biblioshiny**:
+
+---
+
+## Conclusion
+
+In this guide, we covered the installation process for bibliometrix and its user-friendly extension, Biblioshiny:
+
+1. **bibliometrix Package**:
+   - Installed via RStudio using the `install.packages("bibliometrix")` command.
+   - Provides powerful tools for bibliometric analysis within R.
+   - Enables data import, filtering, and visualization.
+
+2. **Biblioshiny**:
+   - Launched after loading the bibliometrix package (`library(bibliometrix)`).
+   - Offers an intuitive web-based interface for non-coders.
+   - Allows comprehensive exploration of science mapping data.
+
+## Contribution :hammer_and_wrench:
+Please [create an Issue](https://github.com/aprijunaidi/bibliometrix-with-R/issues) for any improvements, suggestions, or errors in the content.
+
+
 
