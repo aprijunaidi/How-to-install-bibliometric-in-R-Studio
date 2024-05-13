@@ -84,9 +84,19 @@ Press Enter to execute the command.
 
 
 ![4](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/970ccea7-a6ce-40cb-866c-309bf4b864a3)
-Figure 3. Code for load the biblioshiny extension
+Figure 4. Code for load the biblioshiny extension
 
 ## The biblioshiny page
 
 
 ![5](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/3e37c168-c27b-4a33-b6df-c59611c9e927)
+
+Figure 5. Biblioshiny page
+
+## Explore Biblioshiny
+- Once Biblioshiny is launched, it will open in your default web browser.
+- You can now use the graphical interface to perform bibliometric analyses without any coding.
+
+---
+
+
