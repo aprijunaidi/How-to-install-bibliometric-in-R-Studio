@@ -73,7 +73,10 @@ For more details, visit the [official Biblioshiny page](https://www.bibliometrix
 
 ---
 
-## Load Library biblioshiny
+## Load extension biblioshiny
 
+``` r
+biblioshiny()
+```
 
 ![4](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/970ccea7-a6ce-40cb-866c-309bf4b864a3)
