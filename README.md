@@ -127,4 +127,4 @@ In this guide, we covered the installation process for bibliometrix and its user
 Please [create an Issue](https://github.com/aprijunaidi/bibliometrix-with-R/issues) for any improvements, suggestions, or errors in the content.
 
 
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faprijunaidi%2Fbibliometrix-with-R&countColor=%23263759)
