@@ -14,6 +14,7 @@ For more details, please refer to Figure 1.
 
 Figure 1. Install bibliometrix package.
 
+---
 ### installation is complete
 Figure 2 displays information confirming that the package installation is complete.
 ![2](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/8c70f2cc-027d-4547-bbf2-d96d06fb55d7)
@@ -85,6 +86,7 @@ Press Enter to execute the command.
 
 ![4](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/970ccea7-a6ce-40cb-866c-309bf4b864a3)
 Figure 4. Code for load the biblioshiny extension
+---
 
 ## The biblioshiny page
 
@@ -92,6 +94,7 @@ Figure 4. Code for load the biblioshiny extension
 ![5](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/3e37c168-c27b-4a33-b6df-c59611c9e927)
 
 Figure 5. Biblioshiny page
+---
 
 ## Explore Biblioshiny
 - Once Biblioshiny is launched, it will open in your default web browser.
