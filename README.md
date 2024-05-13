@@ -28,7 +28,7 @@ library(bibliometrix)
 When the library is loaded, the result resembles Figure 3.
 ![3](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/ce279e41-dc30-4614-b0fa-3719f6e83418)
 
-
+Figure 3. Load the bibliometrix library
 
 ---
 
@@ -73,10 +73,11 @@ For more details, visit the [official Biblioshiny page](https://www.bibliometrix
 
 ---
 
-## Load extension biblioshiny
+## Load biblioshiny extension 
 
 ``` r
 biblioshiny()
 ```
 
 ![4](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/970ccea7-a6ce-40cb-866c-309bf4b864a3)
+Figure 3. Code for load the biblioshiny extension
