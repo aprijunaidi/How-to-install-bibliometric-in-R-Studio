@@ -28,6 +28,51 @@ library(bibliometrix)
 When the library is loaded, the result resembles Figure 3.
 ![3](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/ce279e41-dc30-4614-b0fa-3719f6e83418)
 
+
+
+---
+
+## Biblioshiny: A User-Friendly Interface for Bibliometric Analysis
+
+**Biblioshiny** is an extension of the **bibliometrix** R package designed to simplify bibliometric analyses. It provides an intuitive web-based interface, making it accessible even to non-coders. Let's explore its key features:
+
+### Functionality
+
+1. **Data Importing**:
+   - Import and convert data from various sources (e.g., Dimensions, PubMed, Scopus) into a data frame.
+   - Collect data using APIs from these sources.
+
+2. **Data Filtering**:
+   - Filter data based on your research needs.
+
+3. **Analytics and Plots**:
+   - Generate visualizations for different metrics at four levels:
+     - **Sources**
+     - **Authors**
+     - **Documents**
+     - **Clustering by Coupling**
+
+4. **Structures of Knowledge (K-structures)**:
+   - Explore:
+     - **Conceptual Structure**
+     - **Intellectual Structure**
+     - **Social Structure**
+
+### Use Cases
+
+- Researchers can:
+  - Explore relationships between published articles, influential sources, authors, and affiliations.
+  - Visualize research trends and network connections across different constituencies.
+
+### Benefits
+
+- **Non-Coders**: Biblioshiny empowers non-coders to conduct bibliometric analyses.
+- **Comprehensive Analysis**: It facilitates in-depth exploration of science mapping data.
+
+For more details, visit the [official Biblioshiny page](https://www.bibliometrix.org/home/index.php/layout/biblioshiny).
+
+---
+
 ## Load Library biblioshiny
 
 
