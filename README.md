@@ -19,5 +19,5 @@ Figure 1. Install bibliometrix package.
 After installing the bibliometrix package, please load the code corresponding to Figure 2.
 ``` r
 library(bibliometrix)
-'''
+```
 
