@@ -14,10 +14,10 @@ For more details, please refer to Figure 1.
 
 Figure 1. Install bibliometrix package.
 
-This version enhances clarity and corrects the spelling of "below." Remember to always capitalize "RStudio" as it is the proper name of the software.
-From R studio console type the code bellow
-install.packages("bibliometrix")
 
 # Load the bibliometrix library
+After installing the bibliometrix package, please load the code corresponding to Figure 2.
+``` r
 library(bibliometrix)
+'''
 
