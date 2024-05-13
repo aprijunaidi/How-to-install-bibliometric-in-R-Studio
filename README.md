@@ -14,6 +14,9 @@ For more details, please refer to Figure 1.
 
 Figure 1. Install bibliometrix package.
 
+Figure 2 displays information confirming that the package installation is complete.
+![2](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/8c70f2cc-027d-4547-bbf2-d96d06fb55d7)
+Figure 2. Installation is complete.
 
 # Load the bibliometrix library
 After installing the bibliometrix package, please load the code corresponding to Figure 2.
