@@ -74,10 +74,14 @@ For more details, visit the [official Biblioshiny page](https://www.bibliometrix
 ---
 
 ## Load biblioshiny extension 
+To launch Biblioshiny in the R console, follow these steps:
+on R studio console Type the following command
 
 ``` r
 biblioshiny()
 ```
+Press Enter to execute the command.
+
 
 ![4](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/970ccea7-a6ce-40cb-866c-309bf4b864a3)
 Figure 3. Code for load the biblioshiny extension
