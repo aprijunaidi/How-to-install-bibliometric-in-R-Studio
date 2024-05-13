@@ -24,5 +24,7 @@ After installing the bibliometrix package, please load the code corresponding to
 ``` r
 library(bibliometrix)
 ```
+
+When the library is loaded, the result resembles Figure 3.
 ![3](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/ce279e41-dc30-4614-b0fa-3719f6e83418)
 
