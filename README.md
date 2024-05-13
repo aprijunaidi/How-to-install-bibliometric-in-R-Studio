@@ -6,7 +6,7 @@ The R programming language, with its powerful packages and libraries, is an exce
 From the RStudio console, type the code below:
 ``` r
 install.packages("bibliometrix")
-```"
+```
 
 This version enhances clarity and corrects the spelling of "below." Remember to always capitalize "RStudio" as it is the proper name of the software.
 From R studio console type the code bellow
