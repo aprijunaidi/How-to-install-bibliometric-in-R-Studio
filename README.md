@@ -8,7 +8,11 @@ From the RStudio console, type the code below:
 install.packages("bibliometrix")
 ```
 
+For more details, please refer to Figure 1.
+
 ![1](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/aef9653d-1290-4a0b-b021-7f1998c79570)
+
+Figure 1. Install bibliometrix package.
 
 This version enhances clarity and corrects the spelling of "below." Remember to always capitalize "RStudio" as it is the proper name of the software.
 From R studio console type the code bellow
