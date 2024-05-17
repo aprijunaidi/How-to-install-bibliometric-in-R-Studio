@@ -105,10 +105,6 @@ Figure 5. Biblioshiny page
 
 ---
 
-Certainly! Here's a concise conclusion summarizing the installation of the **bibliometrix package** and **Biblioshiny**:
-
----
-
 ## Conclusion
 
 In this guide, we covered the installation process for bibliometrix and its user-friendly extension, Biblioshiny:
