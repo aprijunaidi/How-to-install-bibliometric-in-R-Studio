@@ -118,7 +118,11 @@ In this guide, we covered the installation process for bibliometrix and its user
    - Launched after loading the bibliometrix package (`library(bibliometrix)`).
    - Offers an intuitive web-based interface for non-coders.
    - Allows comprehensive exploration of science mapping data.
+--
+## Note
+After completing all the steps, when you use Bibliometrix again, simply start from Step 2 and proceed until the end.
 
+---
 ## Contribution :hammer_and_wrench:
 Please [create an Issue](https://github.com/aprijunaidi/bibliometrix-with-R/issues) for any improvements, suggestions, or errors in the content.
 
