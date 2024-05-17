@@ -2,7 +2,7 @@
 
 The R programming language, with its powerful packages and libraries, is an excellent tool for conducting bibliometric analysis. One of the most popular R packages for bibliometric analysis is <b>bibliometrix</b>. It offers a comprehensive set of tools for importing data, analyzing publications, and building matrices for co-citation, coupling, collaboration, and co-word analysis. These matrices are crucial for performing network analysis and other data reduction techniques.
 
-# Install the bibliometrix package from CRAN
+# Step 1. Install the bibliometrix package from CRAN
 From the RStudio console, type the code below:
 ``` r
 install.packages("bibliometrix")
@@ -20,7 +20,7 @@ Figure 2 displays information confirming that the package installation is comple
 ![2](https://github.com/aprijunaidi/bibliometrix-with-R/assets/7279471/8c70f2cc-027d-4547-bbf2-d96d06fb55d7)
 Figure 2. Installation is complete.
 
-# Load the bibliometrix library
+# Step 2. Load the bibliometrix library
 After installing the bibliometrix package, please load the code corresponding to Figure 2.
 ``` r
 library(bibliometrix)
@@ -74,7 +74,7 @@ For more details, visit the [official Biblioshiny page](https://www.bibliometrix
 
 ---
 
-## Load biblioshiny extension 
+## Step 3. Load biblioshiny extension 
 To launch Biblioshiny in the R console, follow these steps:
 on R studio console Type the following command
 
